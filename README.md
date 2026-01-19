@@ -55,8 +55,6 @@
 
 ## ⚡ MATEMATİKSEL PROJE ANALİZİ
 
-> [!IMPORTANT]
-> **Proje Özeti:** Bu çalışma, Bilgisayar Mühendisliği disiplini çerçevesinde Matematik 1 dersi konularının dijital ortamda görselleştirilmesini ve analitik çözümlerini içerir.
 
 ### 🧩 SORU 01: ANALİTİK ÇÖZÜMLEME
 *Çözüm sürecine ait metodolojik ekran görüntüleri:*
