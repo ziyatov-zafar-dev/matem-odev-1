@@ -1,7 +1,7 @@
 <div align="center">
 
 <br/>
-
+<p>
 <a href="https://ziyatov-zafar-math-task-1-project.vercel.app"
    target="_blank"
    style="
@@ -27,7 +27,7 @@
 >
   Web Sitesini Aç
 </a>
-
+</p>
 
 
 <br/>
