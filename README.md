@@ -71,7 +71,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=6b4fbb&height=30&section=footer" width="100%"/>
+  <img src="https://kent.edu.tr/content/images/iki_renkli.png?type=rect&color=6b4fbb&height=30&section=footer" width="100%"/>
   <br/>
   <sub>© 2026 <b>Zafar Ziyatov</b> • İstanbul Kent Üniversitesi • Matematik 1 Projesi</sub>
 </div>
