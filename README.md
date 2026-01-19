@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=280&section=header&text=MATEMATİK%20ÖDEVİ%2001&fontSize=65&animation=fadeIn&fontAlignY=35)
-
 <p align="center">
   <a href="https://ziyatov-zafar-math-task-1.vercel.app">
     <img src="https://img.shields.io/badge/CANLI_UYGULAMA-PROJEYİ_GÖR-0078D4?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -50,21 +48,4 @@
 </p>
 
 ---
-
-## 🛠️ TEKNOLOJİ STACK
-<p align="left">
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" title="Markdown" /></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" title="LaTeX" /></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git" /></code>
-  <code><img height="35" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" title="Vercel" /></code>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=30&section=footer" width="100%"/>
-  <br/>
-  <sub>© 2026 <b>Zafar Ziyatov</b> • <a href="https://github.com/ziyatov-zafar-dev/matem-odev-1.git">Repository Link</a></sub>
-</div>
-
 </div>
