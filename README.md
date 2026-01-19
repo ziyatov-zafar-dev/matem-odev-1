@@ -2,7 +2,25 @@
 
 <br/>
 
-<a href="https://ziyatov-zafar-math-task-1-project.vercel.app" target="_blank">Web Sitesi Aç</a>
+<a href="https://ziyatov-zafar-math-task-1-project.vercel.app"
+   target="_blank"
+   style="
+     display:inline-block;
+     padding:14px 28px;
+     font-size:16px;
+     font-weight:600;
+     color:#ffffff;
+     text-decoration:none;
+     border-radius:12px;
+     background:linear-gradient(135deg,#4f46e5,#6366f1);
+     box-shadow:0 10px 25px rgba(79,70,229,0.35);
+     transition:all 0.3s ease;
+   "
+   onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 15px 35px rgba(79,70,229,0.5)'"
+   onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 10px 25px rgba(79,70,229,0.35)'"
+>
+  Web Sitesini Aç
+</a>
 
 <br/>
 <br/>
