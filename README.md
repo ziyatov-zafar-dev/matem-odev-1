@@ -1,86 +1,69 @@
-<div align="center">
+# 🎓 Matematik Ödevi — 01
 
-# 📘 Matematik Ödevi – 1  
-### Modern Web Tabanlı Çözüm Projesi
-
-🎓 **Ders:** Matematik  
-📝 **Ödev:** Ödev 1  
-📅 **Yıl:** 2026  
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Yıl-2026-blue?style=for-the-badge" alt="Yıl">
+  <img src="https://img.shields.io/badge/Durum-Tamamlandı-success?style=for-the-badge" alt="Durum">
+  <img src="https://img.shields.io/badge/Platform-Vercel-black?style=for-the-badge&logo=vercel" alt="Platform">
+</p>
 
 ---
 
-## 🚀 Canlı Uygulama
+## 🚀 Proje Hakkında
+Bu depo, **Matematik dersi** kapsamında hazırlanan 1. ödevin çözümlerini ve dijital uygulamasını içermektedir. Çözümler hem teorik analizleri hem de görsel sonuçları kapsamaktadır.
 
-<div align="center">
-
-🔗 **Proje Linki**  
-👉 **https://ziyatov-zafar-math-task-1.vercel.app**
-
-Bu bağlantı üzerinden ödevin **canlı web versiyonunu** inceleyebilirsiniz.
-
-</div>
+✨ **Canlı Uygulama:** [ziyatov-zafar-math-task-1.vercel.app](https://ziyatov-zafar-math-task-1.vercel.app)
 
 ---
 
-## 👨‍🎓 Öğrenci Bilgileri
+## 👤 Öğrenci Bilgileri
 
-| Bilgi | Değer |
-|------|------|
+| Özellik | Bilgi |
+| :--- | :--- |
 | **Ad Soyad** | Zafar Ziyatov |
-| **Öğrenci Numarası** | 2507020036 |
-| **E-posta** | 2507020036@ogr.kent.edu.tr |
-| **GitHub** | [ziyatov-zafar-dev](https://github.com/ziyatov-zafar-dev) |
+| **Öğrenci No** | 2507020036 |
+| **E-posta** | [2507020036@ogr.kent.edu.tr](mailto:2507020036@ogr.kent.edu.tr) |
+| **GitHub** | [@ziyatov-zafar-dev](https://github.com/ziyatov-zafar-dev) |
 
 ---
 
-## ❓ Soru 1  
-### Çözüm Ekran Görüntüleri
+## 📂 Çözümler ve Görseller
 
-Bu soruya ait çözüm adımları aşağıdaki **3 görsel** ile detaylı şekilde sunulmuştur:
+### 📍 Soru 1: Teorik ve Grafiksel Çözüm
+Bu bölüme ait detaylı çözüm adımları ve grafik çıktıları aşağıda sunulmuştur:
+
+<details>
+<summary>📸 Soru 1 Görsellerini Görüntüle</summary>
+<br />
+
+> **Görsel 1.1: Analiz**
+> ![Soru 1 - 1](https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5)
+
+> **Görsel 1.2: İşlemler**
+> ![Soru 1 - 2](https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e)
+
+> **Görsel 1.3: Grafik Sonucu**
+> ![Soru 1 - 3](https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff)
+
+</details>
+
+---
+
+### 📍 Soru 2: Uygulama Çıktısı
+İkinci sorunun çözümüne ait uygulama ekran görüntüsü:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" width="90%" />
+  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="80%" alt="Soru 2 Çözüm" />
 </p>
 
 ---
 
-## ❓ Soru 2  
-### Çözüm Ekran Görüntüsü
+## 📝 Özet Açıklama
+Bu çalışma, akademik standartlara uygun olarak hazırlanmıştır. İçerik şunları kapsar:
+- **Matematiksel Modelleme:** Problemlerin formülize edilmesi.
+- **Görselleştirme:** Çözümlerin grafik ve tablolarla desteklenmesi.
+- **Web Entegrasyonu:** Sonuçların Vercel üzerinde canlı olarak yayınlanması.
 
-Bu soruya ait çözüm aşağıdaki görselde yer almaktadır:
-
+---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="70%" />
+  Made with ❤️ by <a href="https://github.com/ziyatov-zafar-dev">Zafar Ziyatov</a>
 </p>
-
----
-
-## 📝 Proje Hakkında
-
-Bu repository, **Matematik dersi kapsamında verilen 1. ödevin** çözümlerini içermektedir.
-
-### 🔹 Özellikler
-- Teorik ve uygulamalı çözümler  
-- Web tabanlı modern arayüz  
-- Canlı olarak erişilebilir proje  
-- Temiz ve anlaşılır sunum  
-
-Bu proje, matematiksel problemlerin **dijital ortamda etkili şekilde sunulmasını** amaçlamaktadır.
-
----
-
-<div align="center">
-
-### ⭐ Projeyi Beğendiyseniz Yıldız Vermeyi Unutmayın ⭐
-
-</div>
