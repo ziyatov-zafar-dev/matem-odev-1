@@ -14,15 +14,16 @@
   onmouseover="this.style.transform='scale(1.02)';this.style.boxShadow='0 30px 60px rgba(79, 70, 229, 0.2)'"
   onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 20px 40px rgba(0,0,0,0.1)'">
     
-    <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" 
+    
+  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" 
          alt="Web Site Preview" 
          style="width:100%; height:auto; display:block; border-bottom: 2px solid #4f46e5;">
     
-    <div style="padding: 20px; background: white;">
+   <div style="padding: 20px; background: white;">
       <h3 style="margin:0 0 10px 0; color:#1e293b; font-family: sans-serif;">Matematik Proje Çözüm Platformu</h3>
       <p style="margin:0 0 15px 0; color:#64748b; font-size:14px;">İstanbul Kent Üniversitesi - Matematik 1 Ödevi Dijital Çıktısı</p>
       
-      <span style="
+  <span style="
         display:inline-block;
         padding: 12px 30px;
         background: linear-gradient(135deg, #4f46e5, #7c3aed);
