@@ -51,6 +51,4 @@ Aşağıdaki görsel, problemin nihai çözümünün dijital arayüz üzerindeki
   <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="70%" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </p>
 
----
 
-## 🛠️ Tekno
