@@ -29,9 +29,6 @@
 
 ## ⚡ MATEMATİKSEL ÇÖZÜM ANALİZİ
 
-> [!IMPORTANT]
-> Bu repository, Bilgisayar Mühendisliği müfredatında yer alan matematiksel modelleme tekniklerinin dijital bir portfolyosudur.
-
 ### 🧩 Soru 01: Analitik Çözümleme
 *Üç aşamalı metodolojik çözüm süreci:*
 
