@@ -29,7 +29,7 @@
       <div style="position: absolute; top: -5px; right: -5px; width: 25px; height: 25px; background: #00ff88; border-radius: 50%; border: 3px solid #0f2027;"></div>
     </div>
     
-    <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 300px;">
       <h3 style="color: white; margin-bottom: 15px; font-size: 1.8em;">👤 Zafar Ziyatov</h3>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 12px;">
         <div style="background: rgba(255,255,255,0.1); padding: 12px; border-radius: 8px;">
@@ -97,7 +97,7 @@
       </div>
     </div>
     
-    <div style="position: relative;">
+   <div style="position: relative;">
       <div style="background: linear-gradient(45deg, #00ff88, #40e0d0); padding: 3px; border-radius: 12px;">
         <div style="background: #141e30; border-radius: 10px; overflow: hidden; height: 200px; display: flex; align-items: center; justify-content: center;">
           <div style="text-align: center; color: white; padding: 20px;">
@@ -111,7 +111,7 @@
       </div>
     </div>
     
-    <div style="position: relative;">
+  <div style="position: relative;">
       <div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 3px; border-radius: 12px;">
         <div style="background: #141e30; border-radius: 10px; overflow: hidden; height: 200px; display: flex; align-items: center; justify-content: center;">
           <div style="text-align: center; color: white; padding: 20px;">
@@ -140,14 +140,14 @@
     <div style="background: linear-gradient(45deg, #222, #333); border-radius: 8px; padding: 30px; position: relative; overflow: hidden;">
       <div style="position: absolute; top: 0; left: 0; right: 0; height: 30px; background: linear-gradient(90deg, #ff5f6d, #ffc371);"></div>
       
-      <div style="display: flex; justify-content: center; margin-top: 20px;">
+   <div style="display: flex; justify-content: center; margin-top: 20px;">
         <div style="background: linear-gradient(135deg, #00b4db, #0083b0); width: 80%; height: 150px; border-radius: 8px; position: relative;">
           <div style="position: absolute; top: 20px; left: 20px; color: white; font-weight: bold;">3D Matematiksel Model</div>
           <div style="position: absolute; bottom: 20px; right: 20px; color: rgba(255,255,255,0.7);">Çözüm: √π² + ∫∞</div>
         </div>
       </div>
       
-      <div style="display: flex; justify-content: space-around; margin-top: 30px; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; justify-content: space-around; margin-top: 30px; flex-wrap: wrap; gap: 20px;">
         <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 8px; min-width: 150px;">
           <div style="color: #00ff88; font-size: 0.9em;">Doğruluk Oranı</div>
           <div style="color: white; font-size: 2em; font-weight: bold;">99.8%</div>
