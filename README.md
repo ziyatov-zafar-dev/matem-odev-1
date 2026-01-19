@@ -1,53 +1,86 @@
-# 📘 Matematik Ödevi – 1
+<div align="center">
+
+# 📘 Matematik Ödevi – 1  
+### Modern Web Tabanlı Çözüm Projesi
 
 🎓 **Ders:** Matematik  
 📝 **Ödev:** Ödev 1  
 📅 **Yıl:** 2026  
 
+</div>
+
 ---
 
-## 🌐 Canlı Uygulama
+## 🚀 Canlı Uygulama
 
-🔗 **Proje URL:**  
-👉 https://ziyatov-zafar-math-task-1.vercel.app
+<div align="center">
 
-Bu bağlantı üzerinden ödevin web tabanlı halini canlı olarak inceleyebilirsiniz.
+🔗 **Proje Linki**  
+👉 **https://ziyatov-zafar-math-task-1.vercel.app**
+
+Bu bağlantı üzerinden ödevin **canlı web versiyonunu** inceleyebilirsiniz.
+
+</div>
 
 ---
 
 ## 👨‍🎓 Öğrenci Bilgileri
 
-- **Ad Soyad:** Zafar Ziyatov  
-- **Öğrenci Numarası:** 2507020036  
-- **E-posta:** 2507020036@ogr.kent.edu.tr  
-- **GitHub Profili:**  
-  👉 https://github.com/ziyatov-zafar-dev  
+| Bilgi | Değer |
+|------|------|
+| **Ad Soyad** | Zafar Ziyatov |
+| **Öğrenci Numarası** | 2507020036 |
+| **E-posta** | 2507020036@ogr.kent.edu.tr |
+| **GitHub** | [ziyatov-zafar-dev](https://github.com/ziyatov-zafar-dev) |
 
 ---
 
-## ❓ Soru 1
+## ❓ Soru 1  
+### Çözüm Ekran Görüntüleri
 
-Bu sorunun çözümüne ait **3 adet ekran görüntüsü** aşağıda yer almaktadır:
+Bu soruya ait çözüm adımları aşağıdaki **3 görsel** ile detaylı şekilde sunulmuştur:
 
-<img width="1920" height="1080" alt="Soru 1 - Görsel 1" src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" width="90%" />
+</p>
 
-<img width="1920" height="1080" alt="Soru 1 - Görsel 2" src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" width="90%" />
+</p>
 
-<img width="1920" height="1080" alt="Soru 1 - Görsel 3" src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" width="90%" />
+</p>
+
+---
+
+## ❓ Soru 2  
+### Çözüm Ekran Görüntüsü
+
+Bu soruya ait çözüm aşağıdaki görselde yer almaktadır:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="70%" />
+</p>
 
 ---
 
-## ❓ Soru 2
+## 📝 Proje Hakkında
 
-Bu sorunun çözümüne ait **1 adet ekran görüntüsü** aşağıda yer almaktadır:
+Bu repository, **Matematik dersi kapsamında verilen 1. ödevin** çözümlerini içermektedir.
 
-<img width="863" height="825" alt="Soru 2 - Görsel" src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" />
+### 🔹 Özellikler
+- Teorik ve uygulamalı çözümler  
+- Web tabanlı modern arayüz  
+- Canlı olarak erişilebilir proje  
+- Temiz ve anlaşılır sunum  
+
+Bu proje, matematiksel problemlerin **dijital ortamda etkili şekilde sunulmasını** amaçlamaktadır.
 
 ---
 
-## 📝 Açıklama
+<div align="center">
 
-Bu repository, **Matematik dersi kapsamında verilen 1. ödevin** çözümlerini içermektedir.  
-Çözümler hem **teorik** hem de **uygulamalı** olarak hazırlanmış, ayrıca web ortamında canlı şekilde sunulmuştur.
+### ⭐ Projeyi Beğendiyseniz Yıldız Vermeyi Unutmayın ⭐
 
----
+</div>
