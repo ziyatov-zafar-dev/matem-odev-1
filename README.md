@@ -57,7 +57,7 @@
 <div align="center">
   <sub>© 2026 İstanbul Kent Üniversitesi • Zafar Ziyatov • <b>Bilgisayar Mühendisliği</b></sub>
   <br/>
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=6b4fbb&height=20&section=footer" width="100%"/>
+  <img src="https://kent.edu.tr/content/images/iki_renkli.png" width="100%"/>
 </div>
 
 </div>
