@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![GitHub Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Ödev%20Raporu%201&fontSize=70&animation=fadeIn)
-
 [![Live Demo](https://img.shields.io/badge/Canlı_Uygulama-Görüntüle-0078D4?style=for-the-badge&logo=vercel&logoColor=white)](https://ziyatov-zafar-math-task-1.vercel.app)
 [![Year](https://img.shields.io/badge/Akademik_Yıl-2026-blueviolet?style=for-the-badge)](https://github.com/ziyatov-zafar-dev)
 
