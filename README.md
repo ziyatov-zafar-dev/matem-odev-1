@@ -40,7 +40,7 @@
      this.style.background='linear-gradient(135deg, #4f46e5 0%, #7c3aed 50%, #db2777 100%)';
    "
 >
-   <span style="margin-right: 15px;">🚀</span> WEB SİTESİNİ KEŞFET
+   <span style="margin-right: 15px;">🚀</span> Web sitesine git
 </a>
 </p>
 
