@@ -1,54 +1,72 @@
-# 🚀 Matematik Ödevi Çözümleri <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXF4ZzRyeXF4ZzRyeXF4ZzRyeXF4ZzRyeXF4ZzRyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKSjP8gWp5cOGVq/giphy.gif" width="40">
-
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Canlı_Uygulama-Görüntüle-0078D4?style=for-the-badge&logo=vercel&logoColor=white)](https://ziyatov-zafar-math-task-1.vercel.app)
-[![Year](https://img.shields.io/badge/Akademik_Yıl-2026-blueviolet?style=for-the-badge)](https://github.com/ziyatov-zafar-dev)
-
-</div>
-
----
-
-## 💎 Akademik Kimlik
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://ui-avatars.com/api/?name=Zafar+Ziyatov&background=6b4fbb&color=fff&size=128&bold=true" alt="Zafar Ziyatov" style="border-radius: 50%;" />
-    </td>
-    <td>
-      <h3>👤 Zafar Ziyatov</h3>
-      <p><b>🎓 Bölüm:</b> Matematik Bölümü</p>
-      <p><b>🆔 Öğrenci No:</b> 2507020036</p>
-      <p><b>✉️ İletişim:</b> <a href="mailto:2507020036@ogr.kent.edu.tr">2507020036@ogr.kent.edu.tr</a></p>
-      <p><b>🔗 GitHub:</b> <a href="https://github.com/ziyatov-zafar-dev">@ziyatov-zafar-dev</a></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚡ Proje Analizi
-
-> [!IMPORTANT]
-> Bu repository, teorik matematiksel formüllerin dijital ortama aktarılmasını ve görselleştirilmesini amaçlayan 1. ödevi temsil eder.
-
-### 🧩 Soru 1: Çok Boyutlu Analiz
-Bu çözüm süreci üç aşamalı bir yaklaşımla tamamlanmıştır. Görselleri genişletmek için üzerlerine tıklayabilirsiniz.
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" width="32%" style="border-radius:10px; border: 1px solid #ddd" />
-  <img src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" width="32%" style="border-radius:10px; border: 1px solid #ddd" />
-  <img src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" width="32%" style="border-radius:10px; border: 1px solid #ddd" />
-</div>
-
----
-
-### 🧩 Soru 2: Uygulama Çıktısı
-Aşağıdaki görsel, problemin nihai çözümünün dijital arayüz üzerindeki yansımasını göstermektedir.
+![Header](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=280&section=header&text=MATEMATİK%20ÖDEVİ%2001&fontSize=65&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="70%" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <a href="https://ziyatov-zafar-math-task-1.vercel.app">
+    <img src="https://img.shields.io/badge/CANLI_UYGULAMA-PROJEYİ_GÖR-0078D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/AKADEMİK_YIL-2026-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DURUM-TAMAMLANDI-success?style=for-the-badge" />
 </p>
 
+---
 
+## 🏛️ AKADEMİK KİMLİK & PROFİL
+*Matematik Bölümü Dokümantasyon Sistemi*
+
+<br/>
+
+| <img src="https://ui-avatars.com/api/?name=Zafar+Ziyatov&background=6b4fbb&color=fff&size=150&bold=true" width="150" style="border-radius:20px;" /> | **🎓 ÖĞRENCİ BİLGİLERİ**<br><br>👤 **Ad Soyad:** Zafar Ziyatov<br>🆔 **Numara:** 2507020036<br>📧 **E-Posta:** [2507020036@ogr.kent.edu.tr](mailto:2507020036@ogr.kent.edu.tr)<br>🔗 **GitHub:** [@ziyatov-zafar-dev](https://github.com/ziyatov-zafar-dev) |
+| :--- | :--- |
+
+<br/>
+
+---
+
+## ⚡ PROJE ANALİZ RAPORU
+
+> [!TIP]
+> **Proje Amacı:** Karmaşık matematiksel teorilerin dijital arayüzler ve dinamik grafiklerle modernize edilerek sunulması.
+
+### 🔍 SORU 01: ANALİTİK ÇÖZÜMLEME
+*Üç aşamalı metodolojik yaklaşım ve veri görselleştirme.*
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" width="100%" style="border-radius:12px; box-shadow: 10px 10px 20px rgba(0,0,0,0.1);" /></td>
+      <td><img src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" width="100%" style="border-radius:12px; box-shadow: 10px 10px 20px rgba(0,0,0,0.1);" /></td>
+      <td><img src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" width="100%" style="border-radius:12px; box-shadow: 10px 10px 20px rgba(0,0,0,0.1);" /></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+### 🔍 SORU 02: DİJİTAL ÇIKTI
+*Uygulama katmanındaki nihai matematiksel sonuç.*
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="85%" style="border-radius:20px; border: 2px solid #6b4fbb; padding: 5px; box-shadow: 0px 15px 35px rgba(107, 79, 187, 0.2);" />
+</p>
+
+---
+
+## 🛠️ SİSTEM ALTYAPISI
+<p align="left">
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+  <code><img height="30" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" /></code>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=30&section=footer" width="100%"/>
+  <br/>
+  <sub>© 2026 Zafar Ziyatov • Matematiksel Modelleme Grubu</sub>
+</div>
+
+</div>
