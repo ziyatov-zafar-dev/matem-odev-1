@@ -53,14 +53,4 @@ Aşağıdaki görsel, problemin nihai çözümünün dijital arayüz üzerindeki
 
 ---
 
-## 🛠️ Teknolojik Altyapı
-Bu ödev hazırlanırken aşağıdaki araçlar ve metodolojiler kullanılmıştır:
-* **Markdown & LaTeX:** Matematiksel sembollerin gösterimi.
-* **Vercel:** Uygulamanın canlı yayına alınması.
-* **Git/GitHub:** Versiyon kontrolü ve dokümantasyon.
-
----
-
-<div align="center">
-  <sub>© 2026 Zafar Ziyatov. Tüm hakları saklıdır.</sub>
-</div>
+## 🛠️ Tekno
