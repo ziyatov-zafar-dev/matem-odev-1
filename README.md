@@ -8,8 +8,6 @@
 <br/>
 
 ## 🎓 AKADEMİK PROFİL VE KİMLİK BİLGİLERİ
-*Aşağıdaki tablo öğrenci ve üniversite bilgilerinin resmi dökümüdür.*
-
 <br/>
 
 | 🏷️ Kategori | 📘 Detaylı Bilgi |
