@@ -2,9 +2,7 @@
 
 <br/>
 
-<a href="https://ziyatov-zafar-math-task-1-project.vercel.app" target="_blank">
-  <img src="https://github.com/user-attachments/assets/972c7d2d-60c7-4c6c-8d3c-942eb4a14a36" height="45" />
-</a>
+<a href="https://ziyatov-zafar-math-task-1-project.vercel.app" target="_blank">Web Sitesi Aç</a>
 
 <br/>
 <br/>
