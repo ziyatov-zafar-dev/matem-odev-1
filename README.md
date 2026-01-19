@@ -18,10 +18,10 @@
 ### 1. Soru
 
 Bu sorunun çözümüne ait **3 adet ekran görüntüsü** aşağıda yer almaktadır.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" />
 
-<img width="573" height="219" alt="image" src="https://github.com/user-attachments/assets/b669d5a9-ec7a-47a5-b743-f5fff6cbf30a" />
-<img width="512" height="171" alt="image" src="https://github.com/user-attachments/assets/e4c71de7-e985-4b44-a416-77cf4cb280e7" />
-<img width="450" height="166" alt="image" src="https://github.com/user-attachments/assets/5a261200-8fc6-4013-a25a-56a26d3963dc" />
 
 
 ### 2. Soru
