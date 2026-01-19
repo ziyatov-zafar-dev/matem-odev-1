@@ -5,33 +5,28 @@
 
 using namespace std;
 
-// Verilen fonksiyon degeri
 double f(double x) {
     return pow(x + 1, 2) / (1 + x * x);
 }
 
-// Birinci türev (sayisal yaklasik)
 double f_prime(double x) {
     double h = 0.0001;
     return (f(x + h) - f(x - h)) / (2 * h);
 }
 
-// Ikinci türev (sayisal yaklasik)
 double f_double_prime(double x) {
     double h = 0.0001;
     return (f_prime(x + h) - f_prime(x - h)) / (2 * h);
 }
 
-// Kritik noktalari bulmak için basit bir tarama
 vector<double> find_critical_points() {
     vector<double> points;
     double step = 0.01;
     for (double x = -10; x <= 10; x += step) {
-        if (abs(f_prime(x)) < 0.01) { // yaklasik sifir kontrolü
+        if (abs(f_prime(x)) < 0.01) { 
             points.push_back(x);
         }
     }
-    // Benzer noktalari birlestir
     vector<double> unique_points;
     double tolerance = 0.1;
     for (int i = 0; i < points.size(); ++i) {
@@ -42,7 +37,6 @@ vector<double> find_critical_points() {
     return unique_points;
 }
 
-// Ikinci türevin sifir oldugu noktalari bulma (bükülme noktalari için yaklasik)
 vector<double> find_inflection_candidates() {
     vector<double> points;
     double step = 0.01;
