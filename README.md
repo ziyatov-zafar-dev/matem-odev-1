@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 Canlı Uygulama (Live Demo)
+## 🌐 Canlı Uygulama
 
 🔗 **Proje URL:**  
 👉 https://ziyatov-zafar-math-task-1.vercel.app
@@ -52,10 +52,3 @@ Bu repository, **Matematik dersi kapsamında verilen 1. ödevin** çözümlerini
 
 ---
 
-## 📌 Not
-
-Herhangi bir sorunuz veya geri bildiriminiz olması durumunda benimle e-posta veya GitHub üzerinden iletişime geçebilirsiniz.
-
----
-
-✨ **Başarılar dilerim.**
