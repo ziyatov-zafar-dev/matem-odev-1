@@ -8,24 +8,21 @@
      display:inline-flex;
      align-items:center;
      justify-content:center;
-     gap:10px;
-     padding:16px 34px;
-     font-size:17px;
-     font-weight:700;
-     letter-spacing:0.3px;
+     padding:18px 45px;
+     font-size:18px;
+     font-weight:800;
      color:#ffffff;
      text-decoration:none;
-     border-radius:999px;
-     background:linear-gradient(135deg,#6b4fbb,#4f46e5,#6366f1);
-     box-shadow:
-       0 10px 30px rgba(79,70,229,0.45),
-       inset 0 1px 0 rgba(255,255,255,0.25);
-     transition:all 0.35s ease;
+     border-radius:50px;
+     background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 50%, #db2777 100%);
+     box-shadow: 0 15px 35px rgba(124, 58, 237, 0.4);
+     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+     border: 2px solid rgba(255,255,255,0.1);
    "
-   onmouseover="this.style.transform='translateY(-4px) scale(1.03)';this.style.boxShadow='0 18px 45px rgba(79,70,229,0.6)'"
-   onmouseout="this.style.transform='translateY(0) scale(1)';this.style.boxShadow='0 10px 30px rgba(79,70,229,0.45)'"
+   onmouseover="this.style.transform='translateY(-6px) scale(1.05)';this.style.boxShadow='0 25px 50px rgba(124, 58, 237, 0.5)'"
+   onmouseout="this.style.transform='translateY(0) scale(1)';this.style.boxShadow='0 15px 35px rgba(124, 58, 237, 0.4)'"
 >
-  Web Sitesini Aç
+  🚀 Web Sitesini Aç
 </a>
 </p>
 
