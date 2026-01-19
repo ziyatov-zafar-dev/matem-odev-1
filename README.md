@@ -1,109 +1,109 @@
-# 🚀 Zafar Ziyatov – Matematik Ödevi 1
-
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-TESLİM%20EDİLDİ-success?style=for-the-badge" alt="Durum" />
-  <img src="https://img.shields.io/badge/DERS-MATEMATİK-ff6b6b?style=for-the-badge" alt="Ders" />
-  <img src="https://img.shields.io/badge/YIL-2026-blue?style=for-the-badge" alt="Yıl" />
-</div>
-
----
-
-## 📊 Proje Özeti
-
-Bu proje, **Kent Üniversitesi Matematik dersi** kapsamında verilen **1. ödevin** tamamlanmış halidir. Hem teorik hesaplamalar hem de web tabanlı etkileşimli çözümler içermektedir.
-
----
-
-## 🌟 Canlı Demo
+# 📐 Matematik Ödevi 1 | Zafar Ziyatov
 
 <div align="center">
 
-### 🎯 **Ödevi Hemen İnceleyin**
+![Ödev Durumu](https://img.shields.io/badge/DURUM-TAMAMLANDI-10B981?style=for-the-badge&logo=check-circle)
+![Akademik Yıl](https://img.shields.io/badge/2026-Akademik%20Yıl-3B82F6?style=for-the-badge)
+![Ders](https://img.shields.io/badge/MATEMATİK-Ödev%201-EF4444?style=for-the-badge&logo=calculator)
 
-<a href="https://ziyatov-zafar-math-task-1.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-ziyatov--zafar--math--task--1.vercel.app-8A2BE2?style=for-the-badge&logo=vercel" alt="Canlı Demo" />
-</a>
+## 🌐 Canlı Ödev Görüntüleyici
+
+[![CANLI ÖDEVİ GÖRÜNTÜLE](https://img.shields.io/badge/🚀_CANLI_ÖDEVİ_GÖRÜNTÜLE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://ziyatov-zafar-math-task-1.vercel.app)
+
+*Doğrudan ödevin web versiyonuna yönlendirir*
 
 </div>
 
 ---
 
-## 👨‍🎓 Öğrenci Bilgileri
+## 👤 Öğrenci Profili
 
-<table>
-  <tr>
-    <td><strong>Ad Soyad</strong></td>
-    <td>Zafar Ziyatov</td>
-  </tr>
-  <tr>
-    <td><strong>Öğrenci No</strong></td>
-    <td><code>2507020036</code></td>
-  </tr>
-  <tr>
-    <td><strong>E-posta</strong></td>
-    <td><a href="mailto:2507020036@ogr.kent.edu.tr">2507020036@ogr.kent.edu.tr</a></td>
-  </tr>
-  <tr>
-    <td><strong>GitHub</strong></td>
-    <td><a href="https://github.com/ziyatov-zafar-dev">@ziyatov-zafar-dev</a></td>
-  </tr>
-</table>
+<div align="center">
+
+| Özellik | Değer |
+|---------|-------|
+| **👨‍🎓 Ad Soyad** | Zafar Ziyatov |
+| **🎫 Öğrenci No** | `2507020036` |
+| **📧 E-posta** | 2507020036@ogr.kent.edu.tr |
+| **💼 GitHub** | [ziyatov-zafar-dev](https://github.com/ziyatov-zafar-dev) |
+
+</div>
 
 ---
 
-## 📚 Ödev İçeriği
+## 📚 Ödev Çözümleri
 
-### ❓ **Soru 1 – Detaylı Çözüm**
-**3 adet ekran görüntüsü** ile adım adım çözüm süreci gösterilmiştir.
+### 📝 Soru 1: Kapsamlı Çözüm
 
 <div align="center">
-  <img width="80%" src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" alt="Soru 1 - Görsel 1" />
-  <br>
-  <em>Görsel 1: Soru 1'in ilk aşaması</em>
+  <h4>📸 Adım Adım Çözüm Görselleri</h4>
   
-  <br><br>
-  
-  <img width="80%" src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" alt="Soru 1 - Görsel 2" />
-  <br>
-  <em>Görsel 2: Soru 1'in ikinci aşaması</em>
-  
-  <br><br>
-  
-  <img width="80%" src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" alt="Soru 1 - Görsel 3" />
-  <br>
-  <em>Görsel 3: Soru 1'in son aşaması</em>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+    <div style="flex: 1; min-width: 300px;">
+      <img src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" 
+           alt="Soru 1 - Adım 1" 
+           style="width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <p><em>Adım 1: Problem analizi ve başlangıç</em></p>
+    </div>
+    
+    <div style="flex: 1; min-width: 300px;">
+      <img src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" 
+           alt="Soru 1 - Adım 2" 
+           style="width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <p><em>Adım 2: Ara hesaplamalar</em></p>
+    </div>
+    
+    <div style="flex: 1; min-width: 300px;">
+      <img src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" 
+           alt="Soru 1 - Adım 3" 
+           style="width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <p><em>Adım 3: Sonuç ve doğrulama</em></p>
+    </div>
+  </div>
 </div>
 
 ---
 
-### ❓ **Soru 2 – Detaylı Çözüm**
-**1 adet kapsamlı ekran görüntüsü** ile çözüm sunulmuştur.
+### 📝 Soru 2: Tam Çözüm
 
 <div align="center">
-  <img width="60%" src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" alt="Soru 2 - Görsel" />
-  <br>
-  <em>Soru 2'nin tam çözümü</em>
+  <h4>🎯 Eksiksiz Çözüm Görseli</h4>
+  
+  <div style="max-width: 800px; margin: 40px auto;">
+    <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" 
+         alt="Soru 2 - Tam Çözüm" 
+         style="width: 100%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);">
+    <p style="margin-top: 15px; color: #6B7280;">
+      <em>Matematiksel işlemlerin detaylı gösterimi ve sonuç analizi</em>
+    </p>
+  </div>
 </div>
 
 ---
 
-## 🛠 Teknik Detaylar
-
-- **Platform:** Web tabanlı (responsiv tasarım)
-- **Hosting:** Vercel
-- **Format:** Teorik + Uygulamalı çözüm
-- **Erişim:** Hem görsel hem canlı demo
-
----
-
-## 📌 Not
-
-Bu ödev, **2507020036** numaralı öğrenci Zafar Ziyatov tarafından eksiksiz olarak tamamlanmış ve teslim edilmiştir. Tüm çözümler özgün olup, web uygulaması üzerinden interaktif şekilde doğrulanabilir.
-
----
+## 🛠 Teknik Özellikler
 
 <div align="center">
-  <sub>✅ <strong>Ödev başarıyla tamamlandı ve teslim edildi.</strong></sub>
-  <br>
-  <sub>📅 <em>Son güncelleme: 2026</em></sub>
+
+| Özellik | Açıklama |
+|---------|----------|
+| **🌍 Platform** | Modern web teknolojileri ile geliştirildi |
+| **📱 Responsive** | Tüm cihazlarda optimal görüntüleme |
+| **⚡ Performans** | Hızlı yükleme süreleri |
+| **🔗 Hosting** | Vercel üzerinde barındırılıyor |
+| **🎨 Tasarım** | Kullanıcı dostu ve estetik arayüz |
+
 </div>
+
+---
+
+## 📋 Ödev Detayları
+
+```yaml
+ders: Matematik
+odev_no: 1
+ogrenci_no: 2507020036
+teslim_tarihi: 2026
+durum: Tamamlandı ✓
+canli_demo: Mevcut
+kapsam: Teorik + Pratik çözümler
