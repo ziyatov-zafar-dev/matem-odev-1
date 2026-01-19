@@ -1,51 +1,60 @@
 <div align="center">
 
-<p align="center">
-  <a href="https://ziyatov-zafar-math-task-1.vercel.app">
-    <img src="https://img.shields.io/badge/CANLI_UYGULAMA-PROJEYİ_GÖR-0078D4?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/AKADEMİK_YIL-2026-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BÖLÜM-BİLGİSAYAR_MÜH-orange?style=for-the-badge" />
-</p>
+![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=MATEMATİK%20ÖDEVİ%2001&fontSize=60&animation=fadeIn)
 
----
-
-## 🏛️ AKADEMİK KİMLİK & PROFİL
-*İstanbul Kent Üniversitesi – Dijital Ödev Raporu*
+<a href="https://ziyatov-zafar-math-task-1.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/PROJEYİ_CANLI_İZLE-👉_ziyatov--zafar--math--task--1.vercel.app-6b4fbb?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" />
+</a>
 
 <br/>
-
-| <img src="https://ui-avatars.com/api/?name=Zafar+Ziyatov&background=6b4fbb&color=fff&size=150&bold=true" width="150" style="border-radius:20px;" /> | **🎓 ÖĞRENCİ BİLGİLERİ**<br><br>👤 **Ad Soyad:** Zafar Ziyatov<br>🆔 **Öğrenci No:** 2507020036<br>🏫 **Üniversite:** İstanbul Kent Üniversitesi<br>💻 **Bölüm:** Bilgisayar Mühendisliği<br>📧 **E-Posta:** [2507020036@ogr.kent.edu.tr](mailto:2507020036@ogr.kent.edu.tr)<br>🔗 **GitHub:** [@ziyatov-zafar-dev](https://github.com/ziyatov-zafar-dev) |
-| :--- | :--- |
-
 <br/>
 
 ---
 
-## ⚡ PROJE ANALİZİ (MATEMATİK ÖDEVİ – 1)
+## 🏛️ AKADEMİK PROFİL
+*İstanbul Kent Üniversitesi | Bilgisayar Mühendisliği*
 
-> [!IMPORTANT]
-> **Proje Kapsamı:** Bu çalışma, Bilgisayar Mühendisliği perspektifiyle matematiksel problemlerin analiz edilmesi ve dijital platformda görselleştirilmesini içerir.
+<br/>
 
-### 🔍 SORU 01: ANALİTİK ÇÖZÜMLEME
+<table align="center">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://ui-avatars.com/api/?name=Zafar+Ziyatov&background=6b4fbb&color=fff&size=120&bold=true" width="120" style="border-radius:50%;" />
+    </td>
+    <td style="border: none; padding-left: 20px; text-align: left;">
+      <h3>👤 Zafar Ziyatov</h3>
+      <b>🆔 Öğrenci No:</b> 2507020036<br/>
+      <b>📧 E-Posta:</b> <a href="mailto:2507020036@ogr.kent.edu.tr">2507020036@ogr.kent.edu.tr</a><br/>
+      <b>🔗 GitHub:</b> <a href="https://github.com/ziyatov-zafar-dev">@ziyatov-zafar-dev</a>
+    </td>
+  </tr>
+</table>
 
+---
+
+## ⚡ MATEMATİKSEL ANALİZ RAPORU
+
+> [!NOTE]
+> Bu çalışma, 2026 Akademik Yılı Matematik-1 dersi için hazırlanan dijital çözüm dökümantasyonudur.
+
+### 🧩 SORU 01: ÇÖZÜM ADIMLARI
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" width="100%" style="border-radius:12px; box-shadow: 10px 10px 20px rgba(0,0,0,0.1);" /></td>
-      <td><img src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" width="100%" style="border-radius:12px; box-shadow: 10px 10px 20px rgba(0,0,0,0.1);" /></td>
-      <td><img src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" width="100%" style="border-radius:12px; box-shadow: 10px 10px 20px rgba(0,0,0,0.1);" /></td>
-    </tr>
-  </table>
+  <img src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" width="32%" style="border-radius:8px;" />
+  <img src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" width="32%" style="border-radius:8px;" />
+  <img src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" width="32%" style="border-radius:8px;" />
 </div>
 
 <br/>
 
-### 🔍 SORU 02: UYGULAMA ÇIKTISI
-
+### 🧩 SORU 02: GÖRSEL ÇIKTI
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="85%" style="border-radius:20px; border: 2px solid #6b4fbb; padding: 5px; box-shadow: 0px 15px 35px rgba(107, 79, 187, 0.2);" />
+  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="80%" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
 </p>
 
 ---
+
+<div align="center">
+  <sub>© 2026 • <b>Zafar Ziyatov</b> • Bilgisayar Mühendisliği Bölümü</sub>
+</div>
+
 </div>
