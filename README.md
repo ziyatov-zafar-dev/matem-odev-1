@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://ziyatov-zafar-math-task-1-project.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/CANLI_UYGULAMAYI_AÇ-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6b4fbb" height="45" />
+  <img src="https://github.com/user-attachments/assets/972c7d2d-60c7-4c6c-8d3c-942eb4a14a36" height="45" />
 </a>
 
 <br/>
