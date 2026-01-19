@@ -1,5 +1,7 @@
 <div align="center">
 
+<br/>
+
 <a href="https://ziyatov-zafar-math-task-1.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/CANLI_UYGULAMAYI_AÇ-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6b4fbb" height="45" />
 </a>
@@ -7,57 +9,71 @@
 <br/>
 <br/>
 
-## 🎓 AKADEMİK PROFİL VE KİMLİK BİLGİLERİ
+---
+
+## 🏛️ AKADEMİK ÖĞRENCİ PROFİLİ
+*Resmi Kimlik ve İletişim Bilgileri*
+
 <br/>
 
-| 🏷️ Kategori | 📘 Detaylı Bilgi |
+| 🏷️ Alan | 📘 Bilgi Verisi |
 | :--- | :--- |
 | **Tam Adı** | **Zafar Ziyatov** |
+| **Ders / Sınıf** | **Matematik 1 / Sınıf 1** |
+| **Ödev Başlığı** | Matematik Ödevi – 1 |
 | **Öğrenci Numarası** | `2507020036` |
 | **Üniversite** | **İstanbul Kent Üniversitesi** |
-| **Fakülte / Bölüm** | Bilgisayar Mühendisliği |
-| **Akademik Yıl** | 2026 |
+| **Bölüm** | Bilgisayar Mühendisliği |
 | **E-Posta** | [2507020036@ogr.kent.edu.tr](mailto:2507020036@ogr.kent.edu.tr) |
-| **GitHub Profili** | [@ziyatov-zafar-dev](https://github.com/ziyatov-zafar-dev) |
-| **Kaynak Kodlar** | [GitHub Repository](https://github.com/ziyatov-zafar-dev/matem-odev-1.git) |
+| **GitHub** | [@ziyatov-zafar-dev](https://github.com/ziyatov-zafar-dev) |
+| **Repo** | [matem-odev-1](https://github.com/ziyatov-zafar-dev/matem-odev-1.git) |
 
 <br/>
 
 ---
 
-## ⚡ MATEMATİKSEL ÇÖZÜM ANALİZİ
+## ⚡ MATEMATİKSEL PROJE ANALİZİ
 
-### 🧩 Soru 01: Analitik Çözümleme
-*Üç aşamalı metodolojik çözüm süreci:*
+> [!IMPORTANT]
+> **Proje Özeti:** Bu çalışma, Bilgisayar Mühendisliği disiplini çerçevesinde Matematik 1 dersi konularının dijital ortamda görselleştirilmesini ve analitik çözümlerini içerir.
+
+### 🧩 SORU 01: ANALİTİK ÇÖZÜMLEME
+*Çözüm sürecine ait metodolojik ekran görüntüleri:*
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" width="100%" style="border-radius:12px; box-shadow: 0 4px 12px rgba(107, 79, 187, 0.2);" /></td>
+      <td><img src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" width="100%" style="border-radius:12px; box-shadow: 0 4px 12px rgba(107, 79, 187, 0.2);" /></td>
+      <td><img src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" width="100%" style="border-radius:12px; box-shadow: 0 4px 12px rgba(107, 79, 187, 0.2);" /></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+### 🧩 SORU 02: DİJİTAL ÇIKTI
+*Web arayüzü üzerinden elde edilen nihai sonuç:*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" width="32%" style="border-radius:15px; border: 1px solid #6b4fbb;" />
-  <img src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" width="32%" style="border-radius:15px; border: 1px solid #6b4fbb;" />
-  <img src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" width="32%" style="border-radius:15px; border: 1px solid #6b4fbb;" />
-</p>
-
-### 🧩 Soru 02: Uygulama Arayüzü
-*Sonuçların web tabanlı görselleştirilmesi:*
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="85%" style="border-radius:20px; box-shadow: 0 15px 40px rgba(107, 79, 187, 0.25); border: 1px solid #eee;" />
+  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="85%" style="border-radius:20px; border: 1px solid #6b4fbb; padding: 5px; box-shadow: 0px 20px 40px rgba(0,0,0,0.15);" />
 </p>
 
 ---
 
-## 🛠️ TEKNOLOJİ VE ARAÇLAR
+## 🛠️ SİSTEM VE ARAÇLAR
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <br/>
 
 <div align="center">
-  <sub>© 2026 İstanbul Kent Üniversitesi • Zafar Ziyatov • <b>Bilgisayar Mühendisliği</b></sub>
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=6b4fbb&height=30&section=footer" width="100%"/>
   <br/>
-  <img src="https://kent.edu.tr/content/images/iki_renkli.png" width="100%"/>
+  <sub>© 2026 <b>Zafar Ziyatov</b> • İstanbul Kent Üniversitesi • Matematik 1 Projesi</sub>
 </div>
 
 </div>
