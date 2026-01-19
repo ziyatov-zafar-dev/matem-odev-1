@@ -10,5 +10,8 @@
 
 - **Ad Soyad:** Zafar Ziyatov  
 - **Öğrenci Numarası:** 2507020036  
+- **E-posta:** 2507020036@ogr.kent.edu.tr  
 - **GitHub Profili:**  
   👉 https://github.com/ziyatov-zafar-dev
+
+---
