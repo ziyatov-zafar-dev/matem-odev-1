@@ -1,6 +1,13 @@
 <div align="center">
 
 <br/>
+<img src="https://kent.edu.tr/content/images/iki_renkli.png" width="300" style="margin-bottom: 20px;"/>
+
+# 🎓 MATEMATİKSEL ANALİZ VE DİJİTAL ÇÖZÜMLER
+**İstanbul Kent Üniversitesi | Bilgisayar Mühendisliği**
+
+<br/>
+
 <p>
 <a href="https://ziyatov-zafar-math-task-1-project.vercel.app"
    target="_blank"
@@ -8,91 +15,111 @@
      display:inline-flex;
      align-items:center;
      justify-content:center;
-     padding:18px 45px;
-     font-size:18px;
-     font-weight:800;
+     padding:20px 50px;
+     font-size:20px;
+     font-weight:900;
      color:#ffffff;
      text-decoration:none;
-     border-radius:50px;
-     background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 50%, #db2777 100%);
-     box-shadow: 0 15px 35px rgba(124, 58, 237, 0.4);
+     border-radius:15px;
+     background: linear-gradient(135deg, #6366f1 0%, #a855f7 50%, #ec4899 100%);
+     box-shadow: 0 20px 40px rgba(168, 85, 247, 0.4);
      transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-     border: 2px solid rgba(255,255,255,0.1);
+     border: 1px solid rgba(255,255,255,0.2);
+     letter-spacing: 1px;
+     text-transform: uppercase;
    "
-   onmouseover="this.style.transform='translateY(-6px) scale(1.05)';this.style.boxShadow='0 25px 50px rgba(124, 58, 237, 0.5)'"
-   onmouseout="this.style.transform='translateY(0) scale(1)';this.style.boxShadow='0 15px 35px rgba(124, 58, 237, 0.4)'"
+   onmouseover="this.style.transform='translateY(-8px) scale(1.03)';this.style.boxShadow='0 30px 60px rgba(168, 85, 247, 0.6)'"
+   onmouseout="this.style.transform='translateY(0) scale(1)';this.style.boxShadow='0 20px 40px rgba(168, 85, 247, 0.4)'"
 >
-  🚀 Web Sitesini Aç
+   ⚡ PROJEYİ CANLI İZLE
 </a>
 </p>
 
-
-<br/>
 <br/>
 
 ---
 
-## 🏛 AKADEMİK ÖĞRENCİ PROFİLİ
-*Resmi Kimlik ve İletişim Bilgileri*
-
-<br/>
-
-| 🏷 Alan | 📘 Bilgi Verisi |
-| :--- | :--- |
-| **Tam Adı** | **Zafar Ziyatov** |
-| **Ders / Sınıf** | **Matematik 1 / Sınıf 1** |
-| **Ödev Başlığı** | Matematik Ödevi – 1 |
-| **Öğrenci Numarası** | `2507020036` |
-| **Üniversite** | **İstanbul Kent Üniversitesi** |
-| **Bölüm** | Bilgisayar Mühendisliği |
-| **E-Posta** | [2507020036@ogr.kent.edu.tr](mailto:2507020036@ogr.kent.edu.tr) |
-| **GitHub** | [@ziyatov-zafar-dev](https://github.com/ziyatov-zafar-dev) |
-| **Repo** | [matem-odev-1](https://github.com/ziyatov-zafar-dev/matem-odev-1.git) |
-
-<br/>
-
----
-
-## ⚡️ MATEMATİKSEL PROJE ANALİZİ
-
-
-### 🧩 SORU 01: ANALİTİK ÇÖZÜMLEME
-*Çözüm sürecine ait metodolojik ekran görüntüleri:*
+## 🏛 AKADEMİK KİMLİK KARTI
+*Öğrenci ve Proje Detayları*
 
 <div align="center">
-  <table border="0">
+  <table style="border-collapse: separate; border-spacing: 0; width: 85%; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border: 1px solid #e2e8f0;">
+    <tr style="background: #f8fafc;">
+      <th style="padding: 15px; border-bottom: 1px solid #e2e8f0; color: #475569;">📂 KATEGORİ</th>
+      <th style="padding: 15px; border-bottom: 1px solid #e2e8f0; color: #475569;">📋 VERİ / DETAY</th>
+    </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" width="100%" style="border-radius:12px; box-shadow: 0 4px 12px rgba(107, 79, 187, 0.2);" /></td>
-      <td><img src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" width="100%" style="border-radius:12px; box-shadow: 0 4px 12px rgba(107, 79, 187, 0.2);" /></td>
-      <td><img src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" width="100%" style="border-radius:12px; box-shadow: 0 4px 12px rgba(107, 79, 187, 0.2);" /></td>
+      <td style="padding: 12px 20px; border-bottom: 1px solid #f1f5f9;"><b>Öğrenci İsmi</b></td>
+      <td style="padding: 12px 20px; border-bottom: 1px solid #f1f5f9; color: #6366f1; font-weight: bold;">Zafar Ziyatov</td>
+    </tr>
+    <tr style="background: #fcfcfc;">
+      <td style="padding: 12px 20px; border-bottom: 1px solid #f1f5f9;"><b>Öğrenci No</b></td>
+      <td style="padding: 12px 20px; border-bottom: 1px solid #f1f5f9;"><code>2507020036</code></td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 20px; border-bottom: 1px solid #f1f5f9;"><b>Ders / Görev</b></td>
+      <td style="padding: 12px 20px; border-bottom: 1px solid #f1f5f9;">Matematik 1 / Ödev-1</td>
+    </tr>
+    <tr style="background: #fcfcfc;">
+      <td style="padding: 12px 20px; border-bottom: 1px solid #f1f5f9;"><b>E-Posta</b></td>
+      <td style="padding: 12px 20px; border-bottom: 1px solid #f1f5f9;"><a href="mailto:2507020036@ogr.kent.edu.tr">📧 İletişime Geç</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 20px;"><b>Bağlantılar</b></td>
+      <td style="padding: 12px 20px;">
+        <a href="https://github.com/ziyatov-zafar-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/ziyatov-zafar-dev/matem-odev-1.git"><img src="https://img.shields.io/badge/Repository-4F46E5?style=flat&logo=git&logoColor=white" /></a>
+      </td>
     </tr>
   </table>
 </div>
 
 <br/>
 
-### 🧩 SORU 02: DİJİTAL ÇIKTI
-*Web arayüzü üzerinden elde edilen nihai sonuç:*
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="85%" style="border-radius:20px; border: 1px solid #6b4fbb; padding: 5px; box-shadow: 0px 20px 40px rgba(0,0,0,0.15);" />
-</p>
-
 ---
 
-## 🛠 SİSTEM VE ARAÇLAR
+## 🚀 PROJE GÖRSELLERİ VE ANALİZ
+
+### 📍 ANALİTİK ÇÖZÜM SÜRECİ
+*Kağıt üzerindeki metodolojik yaklaşımlar:*
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/74dc9141-1eeb-4915-a439-42b4c31baff5" width="31%" style="border-radius:15px; margin: 5px; border: 2px solid #e2e8f0;" />
+  <img src="https://github.com/user-attachments/assets/68f21876-bf19-4a18-a848-24645b4db88e" width="31%" style="border-radius:15px; margin: 5px; border: 2px solid #e2e8f0;" />
+  <img src="https://github.com/user-attachments/assets/cc171a9e-2ed3-4476-838e-114859b968ff" width="31%" style="border-radius:15px; margin: 5px; border: 2px solid #e2e8f0;" />
+</div>
+
+<br/>
+
+### 📍 DİJİTAL ARAYÜZ ÇIKTISI
+*Modern web teknolojileri ile entegre edilmiş sonuç:*
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://github.com/user-attachments/assets/0301a610-c246-4acc-92d3-70ee23ecdf16" width="90%" style="border-radius:20px; box-shadow: 0 20px 50px rgba(0,0,0,0.2); border: 4px solid #ffffff;" />
 </p>
 
 <br/>
 
-<div align="center">
-  <img src="https://kent.edu.tr/content/images/iki_renkli.png?type=rect&color=6b4fbb&height=30&section=footer" width="100%"/>
-  <br/>
-  <sub>© 2026 <b>Zafar Ziyatov</b> • İstanbul Kent Üniversitesi • Matematik 1 Projesi</sub>
+---
+
+## 🛠 TEKNOLOJİ STACK
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-%2347A141.svg?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<br/>
+
+<div align="center" style="opacity: 0.8; font-size: 0.9em;">
+  <hr width="50%" style="border: 0.5px solid #ececec;"/>
+  <p>
+    <b>© 2026 Zafar Ziyatov</b><br/>
+    <i>Bu proje akademik amaçlarla geliştirilmiştir.</i><br/>
+    <b>İstanbul Kent Üniversitesi</b>
+  </p>
 </div>
 
 </div>
